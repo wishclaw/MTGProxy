@@ -8,30 +8,17 @@ Prepare your images:
 
 Run the script:
 
-    Modify the input_folder and output_pdf variables at the bottom if needed
-Run from Command Prompt (Recommended)
+    Run from Command Prompt (Recommended)
 
-The best way to see errors is to run the script from Command Prompt:
+    cd "C:\Users\user\Documents\script name"
 
-    Open Command Prompt:
+    Run the script:
 
-        Press Win + R, type cmd, and hit Enter.
+    python your_script_name.py
 
-    Navigate to your script's folder:
-    cmd
-
-cd "C:\Users\user\Documents\script name"
-
-Run the script:
-cmd
-
-python your_script_name.py
-
-(Replace your_script_name.py with your actual script filename)
+    (Replace your_script_name.py with your actual script filename)
 
     The default card size is 2.5" x 3.5" (standard poker size)
-
-    The default DPI is 300 for high quality printing
 
 
 Print the PDF:
